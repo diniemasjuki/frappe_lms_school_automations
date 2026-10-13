@@ -55,5 +55,6 @@ indent-style = "tab"
 
 [tool.bench.frappe-dependencies]
 frappe = ">=16.0.0"
+lms = ">=2.45.2"
 
 
